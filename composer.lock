@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "25709eace279ace45adccf731646c295",
+    "content-hash": "496e53cd387b8201ff3b2b0fb23cbcc9",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1211,16 +1211,16 @@
         },
         {
             "name": "dreamfactory/df-admin-app",
-            "version": "4.7.2",
+            "version": "4.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/df-admin-app.git",
-                "reference": "9bef0adbc13975c6382cf63c4cdde9c075d67c19"
+                "reference": "7dbedfe8b8dd2b6175afd0d31433ebb705b65990"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/df-admin-app/zipball/9bef0adbc13975c6382cf63c4cdde9c075d67c19",
-                "reference": "9bef0adbc13975c6382cf63c4cdde9c075d67c19",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/df-admin-app/zipball/7dbedfe8b8dd2b6175afd0d31433ebb705b65990",
+                "reference": "7dbedfe8b8dd2b6175afd0d31433ebb705b65990",
                 "shasum": ""
             },
             "require": {
@@ -1261,7 +1261,7 @@
                 "source": "https://github.com/dreamfactorysoftware/df-admin-app",
                 "wiki": "https://wiki.dreamfactory.com"
             },
-            "time": "2021-05-20T11:51:36+00:00"
+            "time": "2021-09-13T07:39:57+00:00"
         },
         {
             "name": "dreamfactory/df-api-docs-ui",
@@ -13868,5 +13868,5 @@
         "php": "^7.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }
