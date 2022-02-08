@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "25709eace279ace45adccf731646c295",
+    "content-hash": "ce765b8990186cfbf3b7075e14fee7fd",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1211,16 +1211,16 @@
         },
         {
             "name": "dreamfactory/df-admin-app",
-            "version": "4.7.2",
+            "version": "4.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/df-admin-app.git",
-                "reference": "9bef0adbc13975c6382cf63c4cdde9c075d67c19"
+                "reference": "c33d3d5198a4a7981d238cfebd3ec047d1091511"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/df-admin-app/zipball/9bef0adbc13975c6382cf63c4cdde9c075d67c19",
-                "reference": "9bef0adbc13975c6382cf63c4cdde9c075d67c19",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/df-admin-app/zipball/c33d3d5198a4a7981d238cfebd3ec047d1091511",
+                "reference": "c33d3d5198a4a7981d238cfebd3ec047d1091511",
                 "shasum": ""
             },
             "require": {
@@ -1261,7 +1261,7 @@
                 "source": "https://github.com/dreamfactorysoftware/df-admin-app",
                 "wiki": "https://wiki.dreamfactory.com"
             },
-            "time": "2021-05-20T11:51:36+00:00"
+            "time": "2022-02-07T14:45:04+00:00"
         },
         {
             "name": "dreamfactory/df-api-docs-ui",
@@ -2859,27 +2859,27 @@
         },
         {
             "name": "dreamfactory/installer",
-            "version": "1.0.1",
+            "version": "2.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/dreamfactorysoftware/installer.git",
-                "reference": "f2f264aaf117c0d94c448a6fa92bbce8970c49e8"
+                "reference": "e36faff15c51353c333ecdb8ffec123727e6014c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/dreamfactorysoftware/installer/zipball/f2f264aaf117c0d94c448a6fa92bbce8970c49e8",
-                "reference": "f2f264aaf117c0d94c448a6fa92bbce8970c49e8",
+                "url": "https://api.github.com/repos/dreamfactorysoftware/installer/zipball/e36faff15c51353c333ecdb8ffec123727e6014c",
+                "reference": "e36faff15c51353c333ecdb8ffec123727e6014c",
                 "shasum": ""
             },
             "require-dev": {
-                "composer/composer": "1.0.*@dev",
+                "composer/composer": "2.0.*@dev",
                 "phpunit/phpunit": "@stable"
             },
             "type": "composer-installer",
             "extra": {
                 "class": "DreamFactory\\Tools\\Composer\\Installer\\Installer",
                 "branch-alias": {
-                    "dev-master": "1.0-dev"
+                    "dev-master": "2.0-dev"
                 }
             },
             "autoload": {
@@ -2905,9 +2905,9 @@
             ],
             "support": {
                 "issues": "https://github.com/dreamfactorysoftware/installer/issues",
-                "source": "https://github.com/dreamfactorysoftware/installer/tree/1.0.1"
+                "source": "https://github.com/dreamfactorysoftware/installer/tree/2.0.0"
             },
-            "time": "2015-01-22T19:58:42+00:00"
+            "time": "2022-01-26T04:28:56+00:00"
         },
         {
             "name": "egulias/email-validator",
@@ -13868,5 +13868,5 @@
         "php": "^7.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.2.0"
 }
